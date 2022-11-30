@@ -1,6 +1,6 @@
-word,example,meaning,image,word_audio,meaning_audio,example_audio
-cat,I pet a cat,a pet,/home/fombus/Documents/python/eng_project/images/cat.jpg,audio/words/cat.mp3,audio/meanings/cat.mp3,audio/examples/cat.mp3
-dog,"Dogs say ""woof""",a pet,/home/fombus/Documents/python/eng_project/images/dog.jpg,audio/words/dog.mp3,audio/meanings/dog.mp3,audio/examples/dog.mp3
-bird,I saw a bird on the tree,animal,/home/fombus/Documents/python/eng_project/images/bird.jpg,audio/words/bird.mp3,audio/meanings/bird.mp3,audio/examples/bird.mp3
-horse,I ride a horse,animal,/home/fombus/Documents/python/eng_project/images/horse.jpg,audio/words/horse.mp3,audio/meanings/horse.mp3,audio/examples/horse.mp3
-fox,I would like to have a fox as a pet,animal,/home/fombus/Documents/python/eng_project/images/fox.png,audio/words/fox.mp3,audio/meanings/fox.mp3,audio/examples/fox.mp3
+word,example,meaning,image
+kitty,I pet a cat,a pet,images/cat.jpg
+dog,"Dogs say ""woof""",a pet,images/dog.jpg
+bird,I saw a bird on the tree,animal,images/bird.jpg
+horse,I ride a horse,animal,images/horse.jpg
+fox,I would like to have a fox as a pet,animal,images/fox.png
